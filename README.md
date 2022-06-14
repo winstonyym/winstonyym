@@ -1,10 +1,19 @@
-- 👋 Hi, I’m @winstonyym
-- 👀 I’m interested in urban analytics and 3D city modelling applications for urban planning.
-- 🌱 I’m currently learning web-based development, machine learning, deep learning, and data science. 
-- 💞️ I’m looking to collaborate on machine learning projects
-- 📫 How to reach me @winstonyym on Twitter or my email e0788210@u.nus.edu
+## Winston Yap
 
-<!---
-winstonyym/winstonyym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Twitter Badge](https://img.shields.io/twitter/follow/winstonyym?style=social)](https://twitter.com/winstonyym)
+[![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?hl=en&user=p14e60QAAAAJ)
+[![UAL Badge](https://img.shields.io/badge/UAL-PhD%20Researcher-black)](https://ual.sg/authors/winston/)
+[![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/winston-yap-000/)
+[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://drive.google.com/file/d/1ffFQmOLJvv34ZAjvfl7faXh9y-eK79VC/view?usp=sharing)
+
+
+I am a PhD Researcher at the [Urban Analytics Lab, Singapore](https://ual.sg/), National University of Singapore. My research interests include urban deep learning models, open data, and open source urban analytical software. I hope to examine how urban data and computational workflows can contribute to the planning of sustainable and liveable cities. 
+
+
+---
+
+### Latest Publications
+
+- **Free and Open Source Urbanism: Software for Urban Planning Practice** [Computers, Environment and Urban Systems](https://doi.org/10.1016/j.compenvurbsys.2022.101825)
+
+---
