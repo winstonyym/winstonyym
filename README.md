@@ -15,5 +15,5 @@ I am a PhD Researcher at the [Urban Analytics Lab, Singapore](https://ual.sg/), 
 ### Latest Publications
 
 - **Free and Open Source Urbanism: Software for Urban Planning Practice** [Computers, Environment and Urban Systems](https://doi.org/10.1016/j.compenvurbsys.2022.101825)
-
+- **Incorporating networks in semantic understanding of streetscapes: Contextualising active mobility decisions** [EPB: Urban Analytics and City Science](https://doi.org/10.1177/23998083221138832)
 ---
