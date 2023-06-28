@@ -7,7 +7,7 @@
 [![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://drive.google.com/file/d/1EEZ723vsF9JY_3wt669mO-Z_ZPiscSLd/view?usp=sharing)
 
 
-I am a PhD Researcher at the [Urban Analytics Lab, Singapore](https://ual.sg/), National University of Singapore. My research interests include deep learning, open data, and open source software. I hope to examine how urban data and computational workflows can contribute to the planning of sustainable and liveable cities. 
+I a second year PhD Researcher at the [Urban Analytics Lab, Singapore](https://ual.sg/), National University of Singapore. My research interests include deep learning, open data, and open source software. I hope to examine how urban data and computational workflows can contribute to the planning of sustainable and liveable cities. 
 
 Recently, I have been exploring the intersection of graph machine learning, network science, and complexity. Part of this work resulted in an open source Python package [Urbanity](https://github.com/winstonyym/urbanity) to facilitate complex network analysis and facilitate downstream GeoAI machine learning applications. 
 
