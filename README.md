@@ -18,4 +18,6 @@ Recently, I have been exploring the intersection of graph machine learning, netw
 
 - **Free and Open Source Urbanism: Software for Urban Planning Practice** [Computers, Environment and Urban Systems](https://doi.org/10.1016/j.compenvurbsys.2022.101825)
 - **Incorporating networks in semantic understanding of streetscapes: Contextualising active mobility decisions** [EPB: Urban Analytics and City Science](https://doi.org/10.1177/23998083221138832)
+- **Urbanity: Automated Modelling and Analysis of Multidimensional Networks in Cities** [Accepted in npj Urban Sustainability]
+- **Global Feature-Rich Network Dataset** [Under-review]
 ---
