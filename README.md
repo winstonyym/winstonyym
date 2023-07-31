@@ -4,7 +4,7 @@
 [![Google Scholar Badge](https://img.shields.io/badge/Google-Scholar-lightgrey)](https://scholar.google.com/citations?hl=en&user=p14e60QAAAAJ)
 [![UAL Badge](https://img.shields.io/badge/UAL-PhD%20Researcher-black)](https://ual.sg/authors/winston/)
 [![LinkedIn Badge](https://img.shields.io/badge/My-LinkedIn-blue)](https://www.linkedin.com/in/winston-yap-000/)
-[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://drive.google.com/file/d/1EEZ723vsF9JY_3wt669mO-Z_ZPiscSLd/view?usp=sharing)
+[![CV Badge](https://img.shields.io/badge/My-CV-critical)](https://winstonyym.github.io/images/Winston_CV.pdf)
 
 
 I am a second year PhD Researcher at the [Urban Analytics Lab, Singapore](https://ual.sg/), National University of Singapore. My research interests include deep learning, open data, and open source software. I hope to examine how urban data and computational workflows can contribute to the planning of sustainable and liveable cities. 
