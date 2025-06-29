@@ -20,6 +20,6 @@ My PhD research focuses on the concept of "City as Graphs". Leveraging the relat
 - **Urbanity: Automated Modelling and Analysis of Multidimensional Networks in Cities** [npj Urban Sustainability](https://doi.org/10.1038/s42949-023-00125-w)
 - **Global Feature-Rich Network Dataset** [Scientific Data](https://doi.org/10.1038/s41597-023-02578-1)
 - **Revealing Building Operating Carbon Dynamics for Multiple Cities
-with Open Science** (Under Review)
+with Open Science** (Accepted at Nature Sustainability)
 - **Multifold Health Gains from Addressing Urban Inequality across Major US Cities.** (Under Review)
 ---
